@@ -1,5 +1,5 @@
 # Sun-Simulator
-Sun Simulator used to test small size solar cells. In our case this is used to test Perovskites solar cells that are going to be mounted on the 6S CubeSat.
+Sun Simulator used to test small size solar cells. In our case this is used to test Perovskites solar cells that are going to be mounted on the [6S CubeSat](https://polispace.it/6s-cubesat-project/).
 
 <img src="https://github.com/Luca452/Sun-Simulator/assets/36864265/39427290-29f9-4814-9904-17e5993ce7b8" width="400" />
 
